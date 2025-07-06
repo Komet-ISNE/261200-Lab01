@@ -5,6 +5,7 @@ public class Main {
         t.up();
         t.home();
 
+        //ดอกบัวดอกไม้ประจำเดือน
         // Draw three layers of lotus petals with different colors and sizes
         drawLayer(t, 18, 100, "lightpink", 0);     // Outer layer
         drawLayer(t, 12, 70, "deeppink", 22);      // Middle layer
